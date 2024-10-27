@@ -1,0 +1,7 @@
+BankRupst
+50
+easy
+
+BankRupst is a bank operating in bankruptcy where no laws are applicable.
+nc pwn.heroctf.fr 6001 Format : Hero{flag}
+Author : ghizmo

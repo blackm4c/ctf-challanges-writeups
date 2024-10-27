@@ -1,0 +1,8 @@
+PrYzes
+50
+very easy
+A Python enthusiast created a website to distribute prizes, but currently, you are unable to claim them. Discover a method to successfully claim a prize and obtain the flag!
+
+URL : http://web.heroctf.fr:5000
+Format : Hero{flag}
+Author : xanhacks

@@ -1,0 +1,9 @@
+Under Construction
+500
+hard
+Every piece has its purpose, and only when all are placed together does the full picture reveal itself.
+
+URL : https://underconstruction.heroctf.fr:5200/
+BOT : echo http://URL | nc underconstruction.heroctf.fr 5201
+Format : Hero{flag}
+Author : Mizu

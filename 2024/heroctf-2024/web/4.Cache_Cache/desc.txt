@@ -1,0 +1,11 @@
+Cache Cache
+493
+medium
+I heard about an old tricks related to CORS that doesn't include 'Access-Control-Allow-Credentials', but I can't remember how it works. Can you help me?
+
+Tip: Using other web challenges is required to solve this one :)
+
+URL : http://cache-cache.heroctf.fr:5100/
+BOT : echo http://URL | nc cache-cache.heroctf.fr 5101
+Format : Hero{flag}
+Author : Mizu

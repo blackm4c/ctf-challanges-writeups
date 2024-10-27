@@ -1,0 +1,13 @@
+AutoInfector 1/3
+50
+very easy
+
+
+Upon exploring shadowy online forums, you stumbled upon an article detailing a freshly emerged malware reseller. Your mission, spread across three challenges, is to download and analyze the multi-stage malware. To claim the first flag, find a method to download a beta version of this malware.
+
+URL : http://shop.capturetheflag.fr 
+
+Format : Hero{flag}
+Author : xanhacks
+
+-> the link open the website there is downlaod button but main aim is deobs the bundle.js
