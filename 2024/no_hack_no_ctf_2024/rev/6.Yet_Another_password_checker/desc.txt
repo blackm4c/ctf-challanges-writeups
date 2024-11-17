@@ -1,0 +1,2 @@
+point: 300
+It's just a game for web-hackers, maybe

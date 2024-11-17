@@ -1,0 +1,6 @@
+point: 400
+❤❤❤Do you like slime?Slime is so cute. If you want to marry slime, you can DO ITTTT!❤❤❤
+
+hint:
+1. It is so easy. Please don't run away just seeing glibc 2.39+heap
+2. No one help me check this challenge, so if you think your exploit is correct, but not success, open the ticket and tell me your way and exploit. Good Luck

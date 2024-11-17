@@ -1,0 +1,11 @@
+point: 300
+16-bit flag checker running in real mode!
+ref: https://wiki.osdev.org/Real_Mode
+
+hint:
+1. If you need simulation, please install the bochs simulator (not tested on simulators such as qemu :P ), but static analysis is also possible! 
+
+2. bochsrc is a configuration file on GNU/Linux. If you use the windows platform, please install bochs 2.8 and load bochsrc.bxrc for simulation. Windows users can use bochsdbg.exe in the installation directory to load the configuration file for dynamic debugging, and bochs on GNU/Linux already comes with a debugger 
+3. If an error occurs during simulation, please delete boot.img.lock and try again 
+
+4. Please put the correct password in the middle of NHNC{} before handing it over!

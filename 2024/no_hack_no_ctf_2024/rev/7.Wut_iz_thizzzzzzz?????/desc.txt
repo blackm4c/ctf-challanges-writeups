@@ -1,0 +1,2 @@
+point: 400
+This strange program outputs cddd27a19973d8ebc4ac502d29275644c83a0c34e8588de59faa63b3ff7d517c，Can you tell me what the flag is?

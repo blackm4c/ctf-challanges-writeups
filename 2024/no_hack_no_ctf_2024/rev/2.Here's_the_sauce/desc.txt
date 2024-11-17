@@ -1,0 +1,2 @@
+point: 100
+This program outputs [144, 235, 117, 99, 28, 117, 208, 251, 96, 9, 0, 118, 144, 77, 204, 222] in sequence (the output format has been beautified, so convenient!). Can you tell what flag is from this information?

@@ -1,0 +1,2 @@
+point: 300
+Opened a library, but locked the flag in a restricted area of ​​the library. Can you break through the protection measures and read the flag?

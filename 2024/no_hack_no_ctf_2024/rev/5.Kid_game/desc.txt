@@ -1,0 +1,6 @@
+point: 300
+It's just a game for kids, maybe
+
+hint:
+1. Ctrl+F flag
+2. flag is obfuscated
