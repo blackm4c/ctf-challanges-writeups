@@ -1,0 +1,13 @@
+Reverb
+345
+easy
+Author: Warri
+
+HELLO
+hello
+ECHO
+echo
+GIMME FLAG
+no you dont get flag
+
+nc reverb.chal.wwctf.com 1337
