@@ -1,0 +1,3 @@
+Just do some leaking stuff, flag match the following regex ^W1{[0-9]+}$. Note that all secret/key (if any) will be different on remote machine
+
+Author: Shin24

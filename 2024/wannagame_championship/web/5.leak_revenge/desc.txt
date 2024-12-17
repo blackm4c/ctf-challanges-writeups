@@ -1,0 +1,5 @@
+The revenge challenge for leak
+
+bot: http://chall.w1playground.com:26666/
+
+app: http://chall.w1playground.com:25555/
