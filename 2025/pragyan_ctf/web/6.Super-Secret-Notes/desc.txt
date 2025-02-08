@@ -1,0 +1,5 @@
+title: Super-Secret-Notes
+description: My new notes app which i believe is very secure but is it ?
+the bot will be visiting from https://bot1.ctf.prgy.in
+
+mainUrl: https://secretnotes.ctf.prgy.in/
