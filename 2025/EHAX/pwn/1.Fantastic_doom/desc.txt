@@ -1,0 +1,4 @@
+desc: Doctor Doom, the monarch of Latveria has made many doombots. You working with the Fantastic 4 have to access doombot machine and foil his plans of releasing doombots.
+link:nc chall.ehax.tech 4269
+
+authors: nrg, the_moon_guy

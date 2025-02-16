@@ -1,0 +1,5 @@
+title: CASH MEMO
+des: I have a really hard time managing my cash, am afraid someone might steal my memos...
+link: nc chall.ehax.tech 1925
+
+author: the_moon_guy
