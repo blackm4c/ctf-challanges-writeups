@@ -1,0 +1,3 @@
+title: Canon Event
+
+desc: I heard about this weird syscall long time ago, I wonder what it does...
